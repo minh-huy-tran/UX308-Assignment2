@@ -10,3 +10,29 @@ Template:       economics
 .site-header{
     background-color: blue;
 }
+
+.footer-copyright{
+    background-color: blue;
+}
+
+.green-box .button{
+    background-color: blue;
+}
+
+.al_archive{
+        border: 1px solid blue;
+        box-shadow: 0 0 5px blue;
+}
+
+#main-content .al_archive a h3.product-name, #page-container .al_archive a h3.product-name, #primary .page .entry-content .al_archive h3.product-name, #product_listing .al_archive .product-name, #product_listing .al_archive h3.product-name, .al_archive .product-name, .product-list .al_archive .product-name, .product-subcategories .al_archive .product-name{
+    background-color:blue;
+    box-shadow: 0 0 5px blue;
+}
+
+#container.content-area.product-catalog #product_listing .product-sort-bar .responsive-filters-button, .product-sort-bar .responsive-filters-button, body .product-sort-bar .responsive-filters-button.ic-design.button {
+    background-color:blue
+}
+
+.responsive-filters-button{
+    background-color: blue;
+}
